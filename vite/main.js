@@ -71,4 +71,5 @@ renderer.render(scene, camera);
 
 // animate();
 
+// DEMO Animation 
 
